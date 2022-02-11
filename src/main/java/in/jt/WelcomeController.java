@@ -11,6 +11,6 @@ public class WelcomeController {
 	@GetMapping("/welcome")
 	public String displayWelcomeMsg() {
 		System.out.println("*****************");
-		return "welcome to java techie";
+		return "welcome to java techie......!!!!!!";
 	}
 }
